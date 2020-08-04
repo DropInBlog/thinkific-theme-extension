@@ -1,0 +1,12 @@
+{
+  "name": "DropInBlog",
+  "author": "DropInBlog",
+  "version": "1.0.0",
+  "repository": "https://github.com/DropInBlog/thinkific-theme-extension",
+  "documentation_url": "https://github.com/DropInBlog/thinkific-theme-extension",
+  "support_url": "https://github.com/DropInBlog/thinkific-theme-extension/issues",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon@2x.png"
+  }
+}
